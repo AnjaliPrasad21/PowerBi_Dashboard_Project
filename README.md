@@ -1,5 +1,6 @@
 # PowerBi_Dashboard_Project
-This is a PowerBi end to end project
+This is a PowerBi end to end project.
+
 PROJECT LEARNINGS:- Analyzed Ecommerce Sales Data, Created an interactive Dashboard using POWER BI.
 1. Created Interactive dashboard to track and analyze online sales data. 
 2. Used complex parameters to drill down in worksheet and customization using filters and slicers. 
